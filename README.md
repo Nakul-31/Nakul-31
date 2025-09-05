@@ -8,7 +8,7 @@
 
 
 ## 🌐 Connect with Me<br/>
-- [LinkedIn](www.linkedin.com/in/nakul-dhiman-659310363)  <br/>
+- [LinkedIn](https://www.linkedin.com/in/nakul-dhiman-659310363/)  <br/>
 - [GitHub](https://github.com/Nakul-31)<br/>
 - [Instagram](https://www.instagram.com/nakuldhiman_31/?next=%2F)<br/>
 - [GeeksForGeeks](https://www.geeksforgeeks.org/user/dhimannazuiy/)<br/>
