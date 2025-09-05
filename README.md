@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nakul✨
 
 🎓 Final Year Computer Science Engineering Student <br/>
-💡 Passionate about **Data Science, Machine Learning, and Python**  <br/>
+💡 Passionate about **Data Science, Machine Learning, Api's, and Python**  <br/>
 🚀 Always eager to explore new technologies and build impactful projects  <br/>
 
 ---
