@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Nakul✨
+# 👋 Hi, I'm Nakul ✨  
 
-🎓 Final Year Computer Science Engineering Student <br/>
-💡 Passionate about **Data Science, Machine Learning, Api's, and Python**  <br/>
-🚀 Always eager to explore new technologies and build impactful projects  <br/>
+🎓 Final-Year Computer Science Engineering Student  
+💼 AIML Intern at Netsmartz  
+💡 Specializing in **Data Science, Machine Learning & Python Development**  
+🚀 Focused on building scalable and impactful tech solutions  
+📊 Strong interest in real-world data analysis and AI-driven applications  
+🌱 Continuously learning and growing in the field of AI  
 
 ---
 
@@ -10,13 +13,13 @@
 ## 🌐 Connect with Me<br/>
 <p align="left">
 
-🔗 <a href="https://www.linkedin.com/in/nakul-dhiman-659310363/" target="_blank">LinkedIn</a>
-💻 <a href="https://github.com/Nakul-31" target="_blank">GitHub</a>
-📸 <a href="https://www.instagram.com/nakuldhiman_31/?next=%2F" target="_blank">Instagram</a>
-📚 <a href="https://www.geeksforgeeks.org/user/dhimannazuiy/" target="_blank">GeeksforGeeks</a>
-🧠 <a href="https://leetcode.com/u/LskNQwAGBQ/" target="_blank">LeetCode</a>
-🏆 <a href="https://www.hackerrank.com/profile/dhimannakul2004" target="_blank">HackerRank</a>
-📧 Email: <a href="mailto:dhimannakul2004@gmail.com">dhimannakul2004@gmail.com
+🔗 <a href="https://www.linkedin.com/in/nakul-dhiman-659310363/" target="_blank">LinkedIn</a><br/>
+💻 <a href="https://github.com/Nakul-31" target="_blank">GitHub</a><br/>
+📸 <a href="https://www.instagram.com/nakuldhiman_31/?next=%2F" target="_blank">Instagram</a><br/>
+📚 <a href="https://www.geeksforgeeks.org/user/dhimannazuiy/" target="_blank">GeeksforGeeks</a><br/>
+🧠 <a href="https://leetcode.com/u/LskNQwAGBQ/" target="_blank">LeetCode</a><br/>
+🏆 <a href="https://www.hackerrank.com/profile/dhimannakul2004" target="_blank">HackerRank</a><br/>
+📧 Email: <a href="mailto:dhimannakul2004@gmail.com">dhimannakul2004@gmail.com<br/>
 </a>
 
 </p>
@@ -30,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakul-31&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakul-31&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nakul-31&theme=radical&hide_border=false)
+![Snake animation](https://github.com/Nakul-31/Nakul-31/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Nakul-31&icon=0&color=0)](https://visitcount.itsvg.in)
 
