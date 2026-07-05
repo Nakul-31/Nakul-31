@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nakul ✨  
 
-🎓 Final-Year Computer Science Engineering Student  
+🎓 Computer Science Engineering graduate  
 💼 AIML Intern at Netsmartz  
 💡 Specializing in **Data Science, Machine Learning & Python Development**  
 🚀 Focused on building scalable and impactful tech solutions  
